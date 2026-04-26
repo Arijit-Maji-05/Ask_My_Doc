@@ -225,10 +225,4 @@ Please open an issue first to discuss significant changes or new features.
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 > Built with Google ADK · Gemini · ChromaDB · Sentence Transformers
